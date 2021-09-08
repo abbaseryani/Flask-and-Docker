@@ -18,7 +18,7 @@ keyrings.alt==3.0
 kombu==4.6.7
 lazr.uri==1.0.3
 lazy-object-proxy==1.4.3
-Pillow==5.1.0
+Pillow==8.3.2
 protobuf==3.0.0
 pycairo==1.16.2
 pycrypto==2.6.1
