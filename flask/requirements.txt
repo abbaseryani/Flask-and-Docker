@@ -3,7 +3,7 @@ anyjson==0.3.3
 asn1crypto==0.24.0
 astroid==2.3.3
 billiard==3.6.1.0
-celery==4.4.0
+celery==5.2.2
 certifi==2018.1.18
 cryptography==2.1.4
 Flask==1.1.1
